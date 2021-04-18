@@ -1,7 +1,7 @@
 Countries and Languages Laravel Seeders
 =======================================
 
-#### This repo provides laravel migrations, seeders, models and JSON data for Country (with phone codes) and Languages names in both English and Arabic with their codes
+#### This repo provides laravel migrations, seeders, models and JSON data for Countries (with phone codes) and Languages names in both English and Arabic with their codes
 
 ### About
 
