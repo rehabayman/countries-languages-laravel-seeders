@@ -1,12 +1,13 @@
 Countries and Languages Laravel Seeders
 =======================================
 
-#### This repo provides laravel migrations, seeders, models and JSON data for Country and Languages names in both English and Arabic with their codes
+#### This repo provides laravel migrations, seeders, models and JSON data for Country (with phone codes) and Languages names in both English and Arabic with their codes
 
 ### About
 
 1. 'name' field in both models are of json data type to hold the english and arabic translations.
 2. These models are ready to use spatie/laravel-translatable package if you would like to implement multilingualism in your app. Just implement the steps mentioned in their documentation.
+3. Some countries doesn't have a corresponding phone code.
 
 ### Requirements
 
