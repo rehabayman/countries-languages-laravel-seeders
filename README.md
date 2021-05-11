@@ -6,7 +6,7 @@ Countries and Languages Laravel Seeders
 ### About
 
 1. 'name' field in both models are of json data type to hold the english and arabic translations.
-2. These models are ready to use spatie/laravel-translatable package if you would like to implement multilingualism in your app. Just implement the steps mentioned in their documentation.
+2. These models are ready to use [spatie/laravel-translatable](https://github.com/spatie/laravel-translatable) package if you would like to implement multilingualism in your app. Just implement the steps mentioned in their documentation.
 3. Some countries doesn't have a corresponding phone code.
 
 ### Requirements
